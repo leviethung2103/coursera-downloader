@@ -13,6 +13,7 @@ Tool
 pip install coursera-dl
 ```
 
+## Download course
 ```bash
 coursera-dl -u <user> -p <pass> <ten_khoa_hoc> -cauth <CAUTH_Token>
 ```
